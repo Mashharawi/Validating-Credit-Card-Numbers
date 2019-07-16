@@ -1,3 +1,5 @@
+# Thanks to some one who made this file from stackoverflow.com but I cant remmember his name
+
 total_count = int(input())
 numbers_list = []
 #refernece list to check the starting series
